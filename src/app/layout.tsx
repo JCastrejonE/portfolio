@@ -10,15 +10,10 @@ export const metadata: Metadata = {
   title: {
     template: '%s - JC Castrejón',
     default:
-      'JC Castrejón - Computer Scientist',
+      "JC Castrejón - Computer Scientist",
   },
   description:
-    '',
-  alternates: {
-    types: {
-      'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
-    },
-  },
+    "Hello there, I'm Juan Carlos, a tech enthusiast and software engineer based in Guadalajara, Mexico.",
 }
 
 export default function RootLayout({

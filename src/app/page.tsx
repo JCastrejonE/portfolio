@@ -245,7 +245,7 @@ export default async function Home() {
               Computer scientist, entrepreneur and tech enthusiast.
             </h1>
             <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400 text-justify">
-              Hello there, I'm Juan, a tech enthusiast and software innovator based in Guadalajara, Mexico.
+              Hello there, I'm Juan Carlos, a tech enthusiast and software innovator based in Guadalajara, Mexico.
               My most recent adventure in the world of blockchain led me to be a core contributor at <a href='https://xbacked.io' className='underline text-teal-500' target='_blank'>xBacked</a>,
               a pioneering lending protocol on the Algorand blockchain.
               <br/><br/>
