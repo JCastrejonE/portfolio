@@ -10,7 +10,7 @@ import {
   LinkedInIcon,
   XIcon,
 } from '@/components/SocialIcons'
-import portraitImage from '@/images/portrait.jpeg'
+import portraitImage from '@/images/portrait_running.jpg'
 
 function SocialLink({
   className,
@@ -74,7 +74,20 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              Cool guy, I like to code and stuff. I'm a software engineer, I like to build things and solve problems. I'm a big fan of the web and the open source community.
+              I'm a proud graduate from National Autonomous University of Mexico (UNAM), where I acquired my skills as a computer scientist.
+              Creating technology that resonates with the community and makes a difference is my passion.
+              I'm a never-ending learner, always looking for new knowledge and inspiration from the world around me.
+            </p>
+            <p>
+              When I'm not immersed in coding or tech projects, I tend to practice my DJ skills since I love music in general.
+              I'm also a TV series enthusiast and enjoy the thrill of a good video game to unwind.
+              Board games are another passion of mine; I love the strategic challenge and admit I get a little competitive.
+              My life is a landscape of innovative work, continuous learning, musical adventures, and playful competition.
+            </p>
+            <p>
+              Since the pandemic started, I've been working remotely on most of my projects, which launched me
+              into the digital nomad lifestyle. I've been moving around Mexico, working from different cities and
+              exploring the country and falling in love in a new way with my passions.
             </p>
           </div>
         </div>
